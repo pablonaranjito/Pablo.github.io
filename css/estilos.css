@@ -1,0 +1,157 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+html{
+	background-color:#A4A4A4;
+	}
+body{
+margin: 0 auto;
+background-color: white;
+margin-left: 10%;
+margin-right: 10%;
+
+}
+#content{
+	background-color: white;
+	padding: 30px;
+	margin: 5%;
+}
+#content nav{
+	margin-left: 10px;
+	padding-left: 15px;
+	float: left;
+	margin-right: 30px;
+}
+#principal article{
+	float: left;
+	width: 200px;
+	height: 200px;
+}
+#principal img{
+	float: left;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+#principal li{
+	background-color:#F3EAEA; 
+	padding:10px;
+	margin: 35px 35px 35px 0px;
+}
+#principal ul li{
+	list-style-type: none;
+}
+
+#verde{
+	background-color: green;
+}
+#celeste{
+	background-color: blue;
+}
+#negro{
+	background-color: black;
+}
+#naranja{
+	background-color: orange;
+}
+#turquesa{
+	background-color: seagreen;
+}
+#azul{
+	background-color: blue;
+
+}
+
+footer{
+	clear: both;
+	margin-top: 400px;
+	margin-bottom: 70px;
+	background-color: #A4A4A4;
+}
+
+footer nav ul li{
+	display: inline-block;
+	margin: 12px;
+}
+
+footer nav{
+	float: right;
+}
+
+small{
+	float: left;
+	text-align: justify;
+	text-align: center;
+	
+}
+article h1{
+	padding-left: 12px;
+}
+.lado{
+	border-right: solid;
+	padding-right: 7px;
+}
+#secundario{
+	float: left;
+	text-align: justify;
+	text-align: center;
+	margin-top: 35px;
+
+}
+ ul li{
+ 	list-style-type: circle;
+ }
+#learn{
+	background-color: #F3EAEA;
+	width: 110%;
+	height: 110%;
+	margin: 12px;
+	padding-top: 37px;
+	padding-bottom: 37px;
+	padding-left: 40px;
+	padding-right: 40px;
+
+}
+aside{
+	float: right;
+}
+#grisC{
+	float: left;
+	clear: both;
+	margin-right: 400px;
+	margin-left: 12px;
+	padding-bottom: 40px;
+	background-color: #F3EAEA;
+
+	width: 20%;
+	height: 20%;
+	margin: 12px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+
+}
+#grisO{
+	float: left;
+	clear: both;
+	margin-left: 12px;
+	width: 21%;
+	height: 20%;
+	margin: 12px;
+	padding-top: 11px;
+	padding-bottom: 11px;
+	padding-left: 11px;
+	padding-right: 11px;
+	background-color: #F3EAEA;
+	}
+
+#blanco{
+	background-color: white;
+}
+#add{
+	margin-bottom: 45px;
+}
