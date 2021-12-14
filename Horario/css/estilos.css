@@ -1,0 +1,92 @@
+table{
+	width:100%;
+	border-collapse:collapse;
+}
+td{
+	border:2px solid black;
+}
+
+@font-face{
+   font-family:altone;
+   src:url(../fonts/altone/altone.ttf) format("opentype");
+}
+
+.altone{
+	font-family:altone;
+	font-size: 12px;
+	color:red;
+	background-color: yellow;
+}
+
+@font-face{
+   font-family:frock;
+   src:url(../fonts/frockblack/frock.otf) format("opentype");
+}
+
+.frock{
+	font-family:frock;
+	font-size: 12px;
+	color:yellow;
+	background-color: green;
+}
+
+@font-face{
+   font-family:memphis;
+   src:url(../fonts/memphis/memphis.otf) format("opentype");
+}
+
+.memphis{
+	font-family:memphis;
+	font-size: 12px;
+	color:yellow;
+	background-color: blueviolet;
+}
+
+@font-face{
+   font-family:night;
+   src:url(../fonts/night/night.otf) format("opentype");
+}
+
+.night{
+	font-family:night;
+	font-size: 12px;
+	color:purple;
+	background-color: black;
+
+}
+
+@font-face{
+   font-family:rosalinda;
+   src:url(../fonts/rosalinda/rosalinda.otf) format("opentype");
+}
+
+.rosalinda{
+	font-family:rosalinda;
+	font-size: 12px;
+	color:purple;
+	background-color: skyblue;
+}
+
+@font-face{
+   font-family:highman;
+   src:url(../fonts/highman/highman.ttf) format("opentype");
+}
+
+.highman{
+	font-family:highman;
+	font-size: 12px;
+	color:orange;
+	background-color: black;
+}
+
+@font-face{
+   font-family:athlone;
+   src:url(../fonts/athlone/athlone.otf) format("opentype");
+}
+
+.athlone{
+	font-family:athlone;
+	font-size: 12px;
+	color:green;
+	background-color: purple;
+}
