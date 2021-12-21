@@ -1,0 +1,63 @@
+body{
+	width: 75%;
+	margin: 0 auto;
+	font-family: arial, helvetica;	
+	background-color: #3C56AB;
+}
+
+
+nav ul li{
+	display: inline-block;
+	padding-left:50px;
+}
+
+nav{
+	background: url(../img/cuadros.png);
+	height: 50px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+	
+header{
+	padding-bottom: 95px;
+	background-color: #A7C0DC
+
+
+}
+
+#content{
+	border-left: solid 2px;
+	padding-left: 100px;
+	width: 1100px;
+	float: right;
+	border-color: blue;
+	padding-bottom: 300px;
+	background-color: white;
+	
+	
+}
+#plans{
+	float: right;
+	padding-left: 500px;
+}
+#sidebar{
+	background-color: white;
+	padding-bottom: 50px;
+}
+a{
+	text-decoration: none;
+}
+
+ul li{
+	list-style: none;
+}
+footer{
+
+	background-color: #7CADD7;
+	bottom: 1px;
+}
+footer aside{
+	display:inline-block;
+	margin-right: 100px;
+	padding-left: 40px;
+
